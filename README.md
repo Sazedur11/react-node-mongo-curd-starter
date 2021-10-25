@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This a node mongo curd with localhost data base
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mongo backend database link [Create React App](https://github.com/Sazedur11/backend-for-mongo.git).
 
 ## Available Scripts
 
